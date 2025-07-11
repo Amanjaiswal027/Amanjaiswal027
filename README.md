@@ -20,6 +20,7 @@
 🎯 Soft Skills:       Critical Thinking, Problem Solving, Effective Communication
 
 🌐 Connect with Me
+
 📧 Mail: amanjais1327@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/aman-kumar-861905261/
