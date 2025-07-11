@@ -13,10 +13,15 @@
 ### 🧰 Tools & Tech Stack
 
 👨‍💻 Languages:        Python, Java, Dart, C++, HTML, CSS, JavaScript, SQL
+
 🛢️ Databases/OS:      MySQL, PostgreSQL, Linux, Windows, macOS
+
 🧠 Machine Learning:  Supervised Learning, Unsupervised Learning, NLP, Computer Vision
+
 📚 Libraries:         Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow
-🔧 Frameworks/Tools:  Flask, FastAPI, Hadoop, Git, Google Colab, Jupyter, Spyder, Power BI, Tableau, VS Code, Android Studio
+
+🔧 Frameworks/Tools:  Flask, FastAPI, Hadoop, Git, Spyder, Power BI, Tableau, VS Code, Android Studio
+
 🎯 Soft Skills:       Critical Thinking, Problem Solving, Effective Communication
 
 🌐 Connect with Me
